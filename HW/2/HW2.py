@@ -38,7 +38,7 @@ def get_books_links(url, books_links):
         break
 
 
-# Функция собирает данные о книге по ссылке
+# Функция собирает данные о книгах по ссылкам
 def get_books_data(book_links):
     data = []
     index = 1
