@@ -58,10 +58,10 @@ def get_books_data(book_links):
         book['name'] = name
         # Ищем цену
         try:
-            price = soup.find('div', ('class', 'col-sm-6 product_main')).find('p', ('class', 'price_color')).text
+            price = float(soup.find('div', ('class', 'col-sm-6 product_main')).find('p', ('class', 'price_color')).text[1:])
         except:
             price = ''
-        book['price'] = float(price[1:])
+        book['price'] = price
         # Ищем остаток
         try:
             stock = soup.find('div', ('class', 'col-sm-6 product_main')).find('p', (
