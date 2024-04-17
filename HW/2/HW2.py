@@ -92,8 +92,5 @@ if __name__ == "__main__":
     get_books_links("http://books.toscrape.com/", books_links)
     save_to_json(books_links, Path('books_links.json'))
     data = get_books_data(books_links)
-    # data = [{'index': 994, 'name': 'Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)', 'price': '£34.65', 'in_stock': 1, 'category': 'Sequential Art'},
-    #         {'index': 995, 'name': 'Beyond Good and Evil', 'price': '£43.38', 'in_stock': 1, 'category': 'Philosophy'}]
     save_to_json(data, Path('books_data.json'))
-    # print(len(books_links))
-    # print(get_book_data("http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"))
+
