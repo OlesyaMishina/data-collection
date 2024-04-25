@@ -23,7 +23,8 @@ def exception_handling (row, path):
     try:
         result = row.xpath(path)[0].strip()
     except:
-        result = "не найдено"
+        result = "не определено"
+        #у них написано N/A,  я специально поменяла на не определено, что бы было видно, что исключения ловятся
     return result
 
 #Функция сканирования таблицы
@@ -45,7 +46,7 @@ def scrapy_data(url):
             titles[4]: exception_handling(row, ".//td[5]/fin-streamer/span/text()"),
             titles[5]: exception_handling(row, ".//td[6]/fin-streamer/span/text()"),
             titles[6]: exception_handling(row, ".//td[7]/fin-streamer/text()"),
-            titles[7]: exception_handling(row, ".//td[7]/fin-streamer/text()"),
+            titles[7]: exception_handling(row, ".//td[8]/fin-streamer/text()"),
         })
         # time.sleep(2)
     return data
@@ -60,7 +61,7 @@ def main():
     url = 'https://finance.yahoo.com/trending-tickers/'
     data = scrapy_data(url)
     save_to_csv(data)
-    print(*data, sep='\n')
+    # print(*data, sep='\n')
 
 
 if __name__ == '__main__':
