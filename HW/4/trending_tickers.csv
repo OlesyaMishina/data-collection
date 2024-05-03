@@ -1,31 +1,31 @@
 Symbol,Name,Last Price,Market Time,Change,% Change,Volume,Market Cap
-META,"Meta Platforms, Inc.",430.88,10:48AM EDT,-62.62,-12.69%,39.168M,1.093T
-MSFT,Microsoft Corporation,392.51,10:48AM EDT,-16.55,-4.05%,13.307M,2.917T
-IBM,International Business Machines Corporation,167.37,10:48AM EDT,-16.73,-9.09%,7.344M,153.436B
-AMZN,"Amazon.com, Inc.",170.64,10:48AM EDT,-5.95,-3.37%,20.296M,1.775T
-GOOG,Alphabet Inc.,156.30,10:48AM EDT,-4.80,-2.98%,10.241M,1.93T
-CAT,Caterpillar Inc.,336.18,10:48AM EDT,-27.34,-7.52%,2.56M,167.878B
-BMY,Bristol-Myers Squibb Company,45.01,10:48AM EDT,-3.85,-7.87%,14.476M,91.235B
-GOOGL,Alphabet Inc.,154.52,10:48AM EDT,-4.61,-2.89%,15.983M,1.932T
-MO,"Altria Group, Inc.",43.07,10:48AM EDT,+0.15,+0.35%,3.95M,73.978B
-LUV,Southwest Airlines Co.,26.75,10:48AM EDT,-2.55,-8.72%,13.346M,16B
-CMG,"Chipotle Mexican Grill, Inc.","2,998.43",10:46AM EDT,+71.67,+2.45%,"236,086",82.359B
-NOW,"ServiceNow, Inc.",699.08,10:48AM EDT,-47.21,-6.33%,1.295M,143.577B
-YM=F,Mini Dow Jones Indus.-$5 Jun 24,"38,017.00",10:38AM EDT,-663.00,-1.71%,"89,992",не определено
-NEM,Newmont Corporation,42.10,10:48AM EDT,+3.50,+9.07%,11.326M,48.532B
-NQ=F,Nasdaq 100 Jun 24,"17,398.50",10:38AM EDT,-266.00,-1.51%,"370,552",не определено
-AAL,American Airlines Group Inc.,13.98,10:48AM EDT,+0.06,+0.47%,25.018M,9.157B
-MRK,"Merck & Co., Inc.",129.37,10:48AM EDT,+2.37,+1.87%,4.526M,327.698B
-^DJI,Dow Jones Industrial Average,"37,775.30",10:48AM EDT,-685.62,-1.78%,122.447M,не определено
-AIRE,reAlpha Tech Corp.,1.2850,10:48AM EDT,+0.1250,+10.82%,38.601M,56.697M
-ES=F,E-Mini S&P 500 Jun 24,"5,039.00",10:38AM EDT,-68.50,-1.34%,"750,467",не определено
-CMCSA,Comcast Corporation,37.57,10:48AM EDT,-2.64,-6.57%,11.372M,149.223B
-SQQQ,ProShares UltraPro Short QQQ,12.38,10:48AM EDT,+0.57,+4.85%,60.54M,не определено
-^IXIC,NASDAQ Composite,"15,438.71",10:48AM EDT,-274.04,-1.74%,1.427B,не определено
-PCSA,"Processa Pharmaceuticals, Inc.",2.3948,10:48AM EDT,+0.7748,+47.93%,53.698M,6.84M
-^GSPC,S&P 500,"5,002.12",10:48AM EDT,-69.51,-1.37%,710.849M,не определено
-^TNX,CBOE Interest Rate 10 Year T No,4.7120,9:33AM CDT,+0.0600,+1.29%,0,не определено
-BRFH,"Barfresh Food Group, Inc.",1.6850,10:48AM EDT,+0.5850,+53.22%,34.37M,24.444M
-SPY,SPDR S&P 500 ETF Trust,498.70,10:48AM EDT,-6.71,-1.33%,20.074M,457.702B
-RCL,Royal Caribbean Cruises Ltd.,138.80,10:48AM EDT,+2.07,+1.52%,1.553M,35.721B
-RBRK,"Rubrik, Inc.",32.00,9:38AM EDT,0.00,0.00%,не определено,736M
+CVNA,Carvana Co.,116.79,10:23AM EDT,+29.70,+34.10%,10.26M,20.742B
+QCOM,QUALCOMM Incorporated,178.83,10:23AM EDT,+14.72,+8.97%,8.488M,199.574B
+PTON,"Peloton Interactive, Inc.",2.9700,10:23AM EDT,-0.2500,-7.76%,20.24M,1.09B
+FSLY,"Fastly, Inc.",8.24,10:23AM EDT,-4.69,-36.23%,12.228M,1.126B
+MRNA,"Moderna, Inc.",119.35,10:23AM EDT,+7.89,+7.07%,2.806M,45.697B
+NVO,Novo Nordisk A/S,126.38,10:23AM EDT,-2.83,-2.19%,3.245M,565.869B
+ETSY,"Etsy, Inc.",58.17,10:23AM EDT,-11.57,-16.59%,6.617M,6.823B
+AC.TO,Air Canada,18.77,10:23AM EDT,-1.69,-8.26%,3.456M,6.728B
+AAPL,Apple Inc.,171.58,10:23AM EDT,+2.28,+1.35%,15.927M,2.65T
+ALLR,"Allarity Therapeutics, Inc.",1.8800,10:23AM EDT,+0.5100,+37.23%,61.989M,3.659M
+ENVX,Enovix Corporation,8.28,10:23AM EDT,+1.77,+27.19%,7.42M,1.407B
+BABA,Alibaba Group Holding Limited,77.97,10:23AM EDT,+2.46,+3.26%,5.691M,191.057B
+W,Wayfair Inc.,56.13,10:23AM EDT,+5.60,+11.09%,5.339M,6.76B
+DASH,"DoorDash, Inc.",110.89,10:23AM EDT,-16.57,-13.00%,7.492M,45.342B
+EBS,Emergent BioSolutions Inc.,3.6188,10:23AM EDT,+1.6888,+87.45%,50.268M,189.592M
+PENN,"PENN Entertainment, Inc.",14.41,10:23AM EDT,-2.03,-12.35%,8.545M,2.197B
+XPEV,XPeng Inc.,8.65,10:23AM EDT,+0.53,+6.53%,6.701M,8.16B
+SWK,"Stanley Black & Decker, Inc.",84.32,10:23AM EDT,-7.58,-8.25%,2.337M,12.969B
+FRSH,Freshworks Inc.,13.56,10:23AM EDT,-4.69,-25.67%,8.581M,4.053B
+CAR,"Avis Budget Group, Inc.",111.73,10:23AM EDT,+16.98,+17.92%,"655,480",3.983B
+BIDU,"Baidu, Inc.",108.34,10:23AM EDT,+4.02,+3.85%,1.734M,38.976B
+LI,Li Auto Inc.,28.37,10:23AM EDT,+2.02,+7.66%,5.544M,28.406B
+LIN,Linde plc,419.64,10:23AM EDT,-22.98,-5.19%,1.13M,201.728B
+BCE.TO,BCE Inc.,44.70,10:23AM EDT,-1.06,-2.32%,1.506M,40.779B
+WOLF,"Wolfspeed, Inc.",21.13,10:23AM EDT,-4.98,-19.07%,4.394M,2.658B
+APPN,Appian Corporation,29.31,10:23AM EDT,-7.42,-20.18%,"622,848",2.117B
+JD,"JD.com, Inc.",31.12,10:23AM EDT,+1.85,+6.31%,3.788M,47.742B
+APVO,Aptevo Therapeutics Inc.,1.1882,10:23AM EDT,+0.2282,+23.77%,18.427M,4.27M
+PAYC,"Paycom Software, Inc.",164.26,10:23AM EDT,-21.99,-11.81%,"737,440",9.551B
+PDD,PDD Holdings Inc.,132.41,10:23AM EDT,+7.92,+6.36%,6.776M,183.887B

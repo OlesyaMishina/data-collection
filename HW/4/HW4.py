@@ -36,6 +36,7 @@ def scrapy_data(url):
 
     titles = list(map(str.strip, tree.xpath('.//thead/tr/th/text()')))
     table_rows = tree.xpath('//*[@id="list-res-table"]/div[1]/table/tbody/tr')
+    # print(table_rows[0])
     data = []
     for row in table_rows:
         data.append({
@@ -61,7 +62,7 @@ def main():
     url = 'https://finance.yahoo.com/trending-tickers/'
     data = scrapy_data(url)
     save_to_csv(data)
-    # print(*data, sep='\n')
+    print(*data, sep='\n')
 
 
 if __name__ == '__main__':
